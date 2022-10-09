@@ -2,6 +2,7 @@
 - 👀 I’m interested hyperspectral remote sensing, airborne remote sensing, machine learning and its engineering applications.
 - 🌱 I’m currently learning hyperspectral classification and its applications.
 - 💞️ I’m looking to collaborate on the engineering applications of artificial intelligence.
+- 🎑 I’m currently working in National Engineering Research Center for Digital Construction and Evaluation of Urban Rail Transit.
 - 📫 How to reach me songxiangyu17@mails.ucas.edu.cn; songxiangyu@crdc.com; songxiangyu@ciomp.ac.cn
 
 <!---
