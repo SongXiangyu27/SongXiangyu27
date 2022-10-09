@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xiangyu Song
-- 👀 I’m interested in hyperspectral remote sensing, airborne remote sensing, machine learning, and its engineering application
-- 🌱 I’m currently learning hyperspectral classification and its application 
-- 💞️ I’m looking to collaborate on the engineering application of artificial intelligence
+- 👀 I’m interested hyperspectral remote sensing, airborne remote sensing, machine learning and its engineering applications.
+- 🌱 I’m currently learning hyperspectral classification and its applications.
+- 💞️ I’m looking to collaborate on the engineering applications of artificial intelligence.
 - 📫 How to reach me songxiangyu17@mails.ucas.edu.cn; songxiangyu@crdc.com; songxiangyu@ciomp.ac.cn
 
 <!---
