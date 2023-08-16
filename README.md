@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Xiangyu Song
-- 👀 I’m interested hyperspectral remote sensing, airborne remote sensing, machine learning and its engineering applications.
-- 🌱 I’m currently learning hyperspectral classification and its applications.
-- 💞️ I’m looking to collaborate on the engineering applications of artificial intelligence.
-- 🎑 I’m currently working in National Engineering Research Center for Digital Construction and Evaluation of Urban Rail Transit.
-- 📫 How to reach me songxiangyu17@mails.ucas.edu.cn; songxiangyu@crdc.com; songxiangyu@ciomp.ac.cn
+- 👋 Hi, I am Xiangyu Song
+- 👀 I am interested in hyperspectral remote sensing, airborne remote sensing, machine learning, and its applications in engineering.
+- 🌱 I am presently engaged in the study of hyperspectral classification and its various applications.
+- 💞️ I am actively seeking opportunities for collaboration in the domain of artificial intelligence's engineering applications.
+- 🎑 I am currently employed at the National Engineering Research Center for Digital Construction and Evaluation of Urban Rail Transit.
+- 📫 You can reach me at songxiangyu17@mails.ucas.edu.cn; songxiangyu@crdc.com; songxiangyu@ciomp.ac.cn
 
 <!---
-xiangyusong19/xiangyusong19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+songxiangyu27/songxiangyu27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
